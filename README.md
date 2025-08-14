@@ -10,3 +10,5 @@ Improve icons.
 More features?
 
 I'm happy to receive help, especially with coordinates.
+
+Working version: https://kptjahir.github.io/world-of-sea-battle-map/
