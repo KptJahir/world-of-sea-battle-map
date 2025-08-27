@@ -11,3 +11,5 @@ I'm happy to receive help and ideas.
 
 Browser version:
 https://kptjahir.github.io/world-of-sea-battle-map/
+
+![Map preview](https://kptjahir.github.io/world-of-sea-battle-map/map-preview.png)
